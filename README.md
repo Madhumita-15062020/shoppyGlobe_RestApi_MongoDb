@@ -12,5 +12,5 @@
 ## 🚀 Installation & Setup  
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/shoppyglobe-backend.git
+git clone https://github.com/Madhumita-15062020/shoppyGlobe_RestApi_MongoDb.git
 cd shoppyglobe-backend
